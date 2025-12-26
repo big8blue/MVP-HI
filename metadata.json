@@ -1,0 +1,7 @@
+{
+  "name": "Kalam - Global Event Command",
+  "description": "A high-level macro-management super app for International Junior Hockey World Cup. Features venue telemetry, delegation oversight, and strategic resource monitoring.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
